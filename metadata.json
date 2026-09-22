@@ -1,0 +1,6 @@
+{
+  "name": "RakshaNet Global",
+  "description": "Multi-hazard disaster response platform with offline sync, live shelter navigation, autonomous AI agents, and cross-platform mobile & web dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
