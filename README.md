@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🛰️ RakshaNet Global
 
 ### Multi-Hazard Disaster Response & Autonomous Agent Network
@@ -17,6 +19,8 @@
 **`https://raksha-net-universe.vercel.app/`**
 
 [Overview](#-what-is-this) · [Key Features](#-core-capabilities) · [The Agent Network](#-the-six-agent-network) · [Architecture](#️-system-architecture) · [Tech Stack](#-tech-stack) · [API Reference](#-api-reference) · [Setup](#-getting-started) · [Deployment](#️-deployment) · [Roadmap](#️-roadmap)
+
+</div>
 
 ---
 
@@ -346,8 +350,12 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
 
 ---
 
+<div align="center">
+
 ### ⭐ If this project helps you, consider starring the repository.
 
 **[🛰️ Try the Live Platform](https://raksha-net-universe.vercel.app/)**
 
 *When the network goes down, RakshaNet doesn't.*
+
+</div>
